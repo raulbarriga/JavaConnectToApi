@@ -1,0 +1,1 @@
+You have to manually download the jar file for the org.json.simple package and then add manually add it to your project.
